@@ -9,6 +9,7 @@ dbus-x11
 direnv
 exa
 ffmpeg
+foot
 fzf
 github-cli
 helix
