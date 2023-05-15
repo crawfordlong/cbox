@@ -9,13 +9,13 @@ dbus-x11
 direnv
 exa
 ffmpeg
-foot
 fzf
 github-cli
 helix
 just
 make
 micro
+nano
 ncdu
 ncurses
 neofetch
