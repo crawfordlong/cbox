@@ -30,3 +30,5 @@ vimdiff
 wl-clipboard
 zellij
 zstd
+fish
+fish-config
