@@ -11,8 +11,10 @@ exa
 ffmpeg
 fzf
 github-cli
+heif-convert
 helix
 just
+libheif-tools
 make
 micro
 nano
@@ -21,9 +23,13 @@ ncurses
 neofetch
 neovim
 npm
+pandoc
+pass
 plocate
 python3
+ripasso-cursive
 ripgrep
+skim
 speedtest-cli
 starship
 vimdiff
