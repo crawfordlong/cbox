@@ -15,6 +15,7 @@ helix
 just
 libheif-tools
 make
+mcfly
 micro
 nano
 ncdu
@@ -29,7 +30,6 @@ python3
 ripgrep
 skim
 speedtest-cli
-starship
 vimdiff
 wl-clipboard
 zellij
